@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+
+}
+
+h1{
+    color: brown;
+    font-size: 100px;
+    padding: 200px;;
+}
+
+p{
+    color: yellow;
+    font-size: 100px;
+    
+}
+img{
+   background-position: top;
+   height: 50px;
+  
